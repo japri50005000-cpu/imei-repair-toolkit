@@ -1,0 +1,12 @@
+*.jpg binary
+
+*.py linguist-detectable
+build/* linguist-vendored
+static/* linguist-vendored   
+vendor/* linguist-vendored
+**/*.py linguist-detectable
+*.htm linguist-vendored
+go.sum linguist-generated
+
+dist/* linguist-vendored
+*.woff2 binary
